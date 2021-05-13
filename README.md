@@ -7,7 +7,7 @@ bem simples até pq eu ainda estou estudando o python, e decidi subir pro github
 #Com ele basicamente vc cria uma "ficha" pegando informações basicas para armazenar e se vc quiser ele salva tudo em um arquivo .json assim as informações tbm salvas no mesmo
 formato e vc pode acessar essas informações dando o nome do arquivo que vc escolheu
 
-#Quem tiver ideias para acrecentar ao projetos quiserem ajudar a melhorar ou mesmo utilizar o codigo podem ficar a vontade
+#Quem tiver ideias para acrecentar ao projeto quiserem ajudar a melhorar ou mesmo utilizar o codigo podem ficar a vontade
 
 -> Só gostaria que se fossem utilizar o codigo pra algum projeto pessoal por mais que o codigo não seja nada inovador nem complexo deixasse os creditos nem que seja o nome ou nick
 de quem fez o codigo no caso eu <-
